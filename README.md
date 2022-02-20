@@ -3,7 +3,7 @@
 
 Neste Projeto criei um Slideshow usando Javascript puro .<br>
 <a href=" https://aronnascimento1.github.io/SlideShow/"><img src="/assets/slideshow.gif" width="1000px" height="500px"></a><br>
-clique<a href=" https://aronnascimento1.github.io/SlideShow/"> aqui </a>para ver o slideshow
+clique<a href="https://aronnascimento1.github.io/SlideShow/"> aqui </a>para ver o slideshow
 
 _________
 🖥️ Tecnologias
